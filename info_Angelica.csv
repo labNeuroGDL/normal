@@ -27,5 +27,6 @@
 26,DIGITOS SIMB TOTAL,Dígitos y símbolos,número de aciertos,144,'Aciertos / Edad / Escolaridad'
 27,MCT TOTAL LIST1,Memory Capacity Test lista 1,número de palabras aprendidas,16,'Aciertos / Edad / Escolaridad'
 28,MCT TOTAL LIST2,Memory Capacity Test lista 2,número de palabras aprendidas,16,'Aciertos / Edad / Escolaridad'
-29,MCT REC2L TOTAL L1,Memory Capacity Test - unión de las dos listas,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad'
-30,MCT REClibr TOTAL,Memory Capacity Test - recuerdo libre,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad'
+29,MCT REClibr TOTAL,Memory Capacity Test - recuerdo libre,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad'
+30,MCT REC2L TOTAL L1,Memory Capacity Test - unión de las dos listas,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad'
+
