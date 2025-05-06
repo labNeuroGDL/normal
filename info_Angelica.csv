@@ -1,6 +1,6 @@
 ,Variable,Nombre,Medida,Máximo,tipo
 1,Edad,Edad (años),Edad en años,150,'Aciertos / Edad / Escolaridad'
-2,Escolaridad,Escolaridad (años),Años de escolaridad sin contar preescolar,40,'Aciertos / Edad / Escolaridad'
+2,Escolaridad,Escolaridad (grados),Años de escolaridad sin contar preescolar,40,'Aciertos / Edad / Escolaridad'
 3,MMSE,Mini Mental State Examination,número de aciertos,30,'Aciertos / Edad / Escolaridad'
 4,FLUIDEZ SEM,Fluidez verbal semántica,número de palabras,40,'Aciertos / Edad / Escolaridad'
 5,TOTAL DENOMINACIÓN,Denominación,número de aciertos,15,'Aciertos / Edad / Escolaridad'
