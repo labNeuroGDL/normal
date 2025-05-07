@@ -1,5 +1,5 @@
 ,Variable,Nombre,Medida,Máximo,tipo
-1,Edad,Age,Edad en años,150,'Aciertos / Edad / Escolaridad'
+1,Edad,Age,Edad en años,110,'Aciertos / Edad / Escolaridad'
 2,Escolaridad,YoS,Años de escolaridad sin contar preescolar,40,'Aciertos / Edad / Escolaridad'
 3,MMSE,Mini Mental State Examination (MMSE),Número de aciertos,30,'Aciertos / Edad / Escolaridad'
 4,FV semantica TOTAL,Semantic verbal fluency (SVF),Número de palabras correctas en 1 minuto,40,'Aciertos / Edad / Escolaridad'
