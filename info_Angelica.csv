@@ -1,34 +1,35 @@
-,Variable,Nombre,Medida,Máximo,tipo, abre
-1,Edad,Edad (años),Edad en años,110,'Aciertos / Edad / Escolaridad', Edad
-2,Escolaridad,Escolaridad (grados),Años de escolaridad sin contar preescolar,40,'Aciertos / Edad / Escolaridad', Escolaridad
-3,MMSE,Mini Mental State Examination,número de aciertos,30,'Aciertos / Edad / Escolaridad', MMSE
-4,FLUIDEZ SEM,Fluidez verbal semántica,número de palabras,40,'Aciertos / Edad / Escolaridad', FVS
-5,TOTAL DENOMINACIÓN,Denominación,número de aciertos,15,'Aciertos / Edad / Escolaridad', BNT
-6,TOTAL LP,Aprendizaje de la lista de palabras,número de palabras,30,'Aciertos / Edad / Escolaridad', LP-A
-7,DIFERIDO LP,Recuerdo diferido de la lista de palabras,número de palabras,10,'Aciertos / Edad / Escolaridad', LP-RD
-8,TOTAL RECONOCIMIENTO LP,Reconocimiento de la lista de palabras,número de aciertos,10,'Aciertos / Edad / Escolaridad', LP-R
-9,TOTAL PRAX COP,Praxias construccionales - copia,número de aciertos,11,'Aciertos / Edad / Escolaridad', PRX-C
-10,TOTAL PRAX EVO,Praxias construccionales - evocación,número de aciertos,11,'Aciertos / Edad / Escolaridad', PRX-E
-11,TMT TIEMPO,Trail Making Test - A,tiempo de ejecución,300,'Errores / Tiempo', TMT-A (s)
-12,FIG REY TIEMPO COP,Figura Compleja de Rey / tiempo - copia,tiempo de ejecución,300,'Errores / Tiempo', RCOF-C (s)
-13,FIG REY PUNTAJE COP,Figura Compleja de Rey / puntaje - copia,número de aciertos,36,'Aciertos / Edad / Escolaridad', ROCF-C
-14,FIG REY TIEMPO EVO,Figura Compleja de Rey / tiempo - evocación,tiempo de ejecución,300,'Errores / Tiempo', ROCF-IR (s)
-15,FIG REY PUNTAJE EVO,Figura Compleja de Rey / puntaje - evocación,número de aciertos,36,'Aciertos / Edad / Escolaridad', ROCF-IR
-16,FIG REY PORC RETEN,Figura Compleja de Rey - porcentaje de retención,porcentaje de retención,100,'Aciertos / Edad / Escolaridad', RCOF-DR
-17,FAS F TOTAL CORRECT,Fluidez verbal fonológica letra F,número de palabras,40,'Aciertos / Edad / Escolaridad', FVF-F
-18,FAS A TOTAL CORRECT,Fluidez verbal fonológica letra A,número de palabras,40,'Aciertos / Edad / Escolaridad', FVF-A
-19,FAS S TOTAL CORRECT,Fluidez verbal fonológica letra S,número de palabras,40,'Aciertos / Edad / Escolaridad', FVF-S
-20,RAVEN,Matrices progresivas de Raven,número de aciertos,12,'Aciertos / Edad / Escolaridad', RVN
-21,WISCON ACIERTOS,Test de clasificación de tarjetas del Wisconsin (WCST),número de aciertos,48,'Aciertos / Edad / Escolaridad', MWCST-A
-22,WISCON ERRORES,Test de clasificación de tarjetas del Wisconsin (WCST),número de errores,48,'Errores / Tiempo', MWCDT-E
-23,WISCON CATEGORIA,Test de clasificación de tarjetas del Wisconsin (WCST),número de categorías,6,'Aciertos / Edad / Escolaridad', MWCST-CTG
-24,WISCON RESPUESTAS PERSEVERATIVAS,Test de clasificación de tarjetas del Wisconsin (WCST),respuestas perseverativas,47,'Errores / Tiempo', MWCST-P
-25,MIS TOTAL,Memory Impairment Screen,total de aciertos,8,'Aciertos / Edad / Escolaridad', MIS
-26,DIGITOS SIMB TOTAL,Dígitos y símbolos,número de aciertos,144,'Aciertos / Edad / Escolaridad', CLV
-27,MCT TOTAL LIST1,Memory Capacity Test lista 1,número de palabras aprendidas,16,'Aciertos / Edad / Escolaridad', MCT-L1
-28,MCT TOTAL LIST2,Memory Capacity Test lista 2,número de palabras aprendidas,16,'Aciertos / Edad / Escolaridad', MCT-L2
-29, MCT REC TOTAL L1 & L2 (SUMA),Memory Capacity Test - unión de las dos listas,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad', MCT-L1&2
-30, MCT REC. LIBRE TOTAL,Memory Capacity Test - recuerdo libre,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad', MCT-RL
+,Variable,Nombre,Medida,Máximo,tipo,abre
+1,Edad,Edad (años),Edad en años,110,'Aciertos / Edad / Escolaridad',Edad
+2,Escolaridad,Escolaridad (grados),Años de escolaridad sin contar preescolar,40,'Aciertos / Edad / Escolaridad',Escolaridad
+3,MMSE,Mini Mental State Examination,número de aciertos,30,'Aciertos / Edad / Escolaridad',MMSE
+4,FLUIDEZ SEM,Fluidez verbal semántica,número de palabras,40,'Aciertos / Edad / Escolaridad',FVS
+5,TOTAL DENOMINACIÓN,Denominación,número de aciertos,15,'Aciertos / Edad / Escolaridad',BNT
+6,TOTAL LP,Aprendizaje de la lista de palabras,número de palabras,30,'Aciertos / Edad / Escolaridad',LP-A
+7,DIFERIDO LP,Recuerdo diferido de la lista de palabras,número de palabras,10,'Aciertos / Edad / Escolaridad',LP-RD
+8,TOTAL RECONOCIMIENTO LP,Reconocimiento de la lista de palabras,número de aciertos,10,'Aciertos / Edad / Escolaridad',LP-R
+9,TOTAL PRAX COP,Praxias construccionales - copia,número de aciertos,11,'Aciertos / Edad / Escolaridad',PRX-C
+10,TOTAL PRAX EVO,Praxias construccionales - evocación,número de aciertos,11,'Aciertos / Edad / Escolaridad',PRX-E
+11,TMT TIEMPO,Trail Making Test - A,tiempo de ejecución,300,'Errores / Tiempo',TMT-A (s)
+12,FIG REY TIEMPO COP,Figura Compleja de Rey / tiempo - copia,tiempo de ejecución,300,'Errores / Tiempo',RCOF-C (s)
+13,FIG REY PUNTAJE COP,Figura Compleja de Rey / puntaje - copia,número de aciertos,36,'Aciertos / Edad / Escolaridad',ROCF-C
+14,FIG REY TIEMPO EVO,Figura Compleja de Rey / tiempo - evocación,tiempo de ejecución,300,'Errores / Tiempo',ROCF-IR (s)
+15,FIG REY PUNTAJE EVO,Figura Compleja de Rey / puntaje - evocación,número de aciertos,36,'Aciertos / Edad / Escolaridad',ROCF-IR
+16,FIG REY PORC RETEN,Figura Compleja de Rey - porcentaje de retención,porcentaje de retención,100,'Aciertos / Edad / Escolaridad',RCOF-DR
+17,FAS F TOTAL CORRECT,Fluidez verbal fonológica letra F,número de palabras,40,'Aciertos / Edad / Escolaridad',FVF-F
+18,FAS A TOTAL CORRECT,Fluidez verbal fonológica letra A,número de palabras,40,'Aciertos / Edad / Escolaridad',FVF-A
+19,FAS S TOTAL CORRECT,Fluidez verbal fonológica letra S,número de palabras,40,'Aciertos / Edad / Escolaridad',FVF-S
+20,RAVEN,Matrices progresivas de Raven,número de aciertos,12,'Aciertos / Edad / Escolaridad',RVN
+21,WISCON ACIERTOS,Test de clasificación de tarjetas del Wisconsin (WCST),número de aciertos,48,'Aciertos / Edad / Escolaridad',MWCST-A
+22,WISCON ERRORES,Test de clasificación de tarjetas del Wisconsin (WCST),número de errores,48,'Errores / Tiempo',MWCDT-E
+23,WISCON CATEGORIA,Test de clasificación de tarjetas del Wisconsin (WCST),número de categorías,6,'Aciertos / Edad / Escolaridad',MWCST-CTG
+24,WISCON RESPUESTAS PERSEVERATIVAS,Test de clasificación de tarjetas del Wisconsin (WCST),respuestas perseverativas,47,'Errores / Tiempo',MWCST-P
+25,MIS TOTAL,Memory Impairment Screen,total de aciertos,8,'Aciertos / Edad / Escolaridad',MIS
+26,DIGITOS SIMB TOTAL,Dígitos y símbolos,número de aciertos,144,'Aciertos / Edad / Escolaridad',CLV
+27,MCT TOTAL LIST1,Memory Capacity Test lista 1,número de palabras aprendidas,16,'Aciertos / Edad / Escolaridad',MCT-L1
+28,MCT TOTAL LIST2,Memory Capacity Test lista 2,número de palabras aprendidas,16,'Aciertos / Edad / Escolaridad',MCT-L2
+29, MCT REC TOTAL L1 & L2 (SUMA),Memory Capacity Test - unión de las dos listas,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad',MCT-L1&2
+30, MCT REC. LIBRE TOTAL,Memory Capacity Test - recuerdo libre,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad',MCT-RL
+
 
 
 
