@@ -1,6 +1,6 @@
 ,Variable,Nombre,Medida,Máximo,tipo, abre
-1,Edad,Age,Edad en años,110,'Aciertos / Edad / Escolaridad', Age
-2,Escolaridad,YoS,Años de escolaridad sin contar preescolar,40,'Aciertos / Edad / Escolaridad', YoS
+1,Edad,Age,Edad en años,110,'Aciertos / Edad / Escolaridad', Edad
+2,Escolaridad,YoS,Años de escolaridad sin contar preescolar,40,'Aciertos / Edad / Escolaridad', Escolaridad
 3,MMSE,Mini Mental State Examination (MMSE),Número de aciertos,30,'Aciertos / Edad / Escolaridad', MMSE
 4,FV semantica TOTAL,Semantic verbal fluency (SVF),Número de palabras correctas en 1 minuto,40,'Aciertos / Edad / Escolaridad', FVS
 5,Boston TOTAL,Verbal Boston Naming (VBN),Número de aciertos,15,'Aciertos / Edad / Escolaridad', BNT
@@ -34,4 +34,5 @@
 33,STROOP2 TOTAL,STROOP2 TOTAL,Número de aciertos,36,'Aciertos / Edad / Escolaridad', STROOP2
 34,STROOP3 tiempo,STROOP3 tiempo,Duración de la tarea en segundos,No aplica,'Aciertos / Edad / Escolaridad', STROOP3 (S)
 35,STROOP3 TOTAL,STROOP3 TOTAL,Número de aciertos,36,'Aciertos / Edad / Escolaridad', STROOP3
+
 
