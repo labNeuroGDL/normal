@@ -9,7 +9,7 @@
 8,TOTAL RECONOCIMIENTO LP,Reconocimiento de la lista de palabras,número de aciertos,10,'Aciertos / Edad / Escolaridad'
 9,TOTAL PRAX COP,Praxias construccionales - copia,número de aciertos,11,'Aciertos / Edad / Escolaridad'
 10,TOTAL PRAX EVO,Praxias construccionales - evocación,número de aciertos,11,'Aciertos / Edad / Escolaridad'
-11,TMT_TIEMPO,Trail Making Test - A,tiempo de ejecución,300,'Errores / Tiempo'
+11,TMT TIEMPO,Trail Making Test - A,tiempo de ejecución,300,'Errores / Tiempo'
 12,FIG REY TIEMPO COP,Figura Compleja de Rey / tiempo - copia,tiempo de ejecución,300,'Errores / Tiempo'
 13,FIG REY PUNTAJE COP,Figura Compleja de Rey / puntaje - copia,número de aciertos,36,'Aciertos / Edad / Escolaridad'
 14,FIG REY TIEMPO EVO,Figura Compleja de Rey / tiempo - evocación,tiempo de ejecución,300,'Errores / Tiempo'
@@ -29,6 +29,7 @@
 28,MCT TOTAL LIST2,Memory Capacity Test lista 2,número de palabras aprendidas,16,'Aciertos / Edad / Escolaridad'
 29, MCT REC TOTAL L1 & L2 (SUMA),Memory Capacity Test - unión de las dos listas,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad'
 30, MCT REC. LIBRE TOTAL,Memory Capacity Test - recuerdo libre,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad'
+
 
 
 
