@@ -1,6 +1,6 @@
 ,Variable,Nombre,Medida,Máximo,tipo, abre
-1,Edad,Edad (años),Edad en años,110,'Aciertos / Edad / Escolaridad', Age
-2,Escolaridad,Escolaridad (grados),Años de escolaridad sin contar preescolar,40,'Aciertos / Edad / Escolaridad', YoS
+1,Edad,Edad (años),Edad en años,110,'Aciertos / Edad / Escolaridad', Edad
+2,Escolaridad,Escolaridad (grados),Años de escolaridad sin contar preescolar,40,'Aciertos / Edad / Escolaridad', Escolaridad
 3,MMSE,Mini Mental State Examination,número de aciertos,30,'Aciertos / Edad / Escolaridad', MMSE
 4,FLUIDEZ SEM,Fluidez verbal semántica,número de palabras,40,'Aciertos / Edad / Escolaridad', FVS
 5,TOTAL DENOMINACIÓN,Denominación,número de aciertos,15,'Aciertos / Edad / Escolaridad', BNT
@@ -29,6 +29,7 @@
 28,MCT TOTAL LIST2,Memory Capacity Test lista 2,número de palabras aprendidas,16,'Aciertos / Edad / Escolaridad', MCT-L2
 29, MCT REC TOTAL L1 & L2 (SUMA),Memory Capacity Test - unión de las dos listas,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad', MCT-L1&2
 30, MCT REC. LIBRE TOTAL,Memory Capacity Test - recuerdo libre,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad', MCT-RL
+
 
 
 
