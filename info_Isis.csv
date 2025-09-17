@@ -24,8 +24,8 @@
 "23","MIS TOTAL","MIS","Número de palabras recordadas","8"
 "24","MCT L1 TOTAL","Memory Capacity Test list 1","Número de aciertos en MCT lista 1","16"
 "25","MCT L2 TOTAL","Memory Capacity Test list 2","Número de aciertos en MCT lista 2","16"
-"26","MCT L1y2 TOTAL","Memory Capacity Test - list: 1 and 2","Número de palabras recordadas en ambas listas","32"
-"27","MCT reculibre TOTAL","Memory Capacity Test (MCT) Free Recall","Número de palabras recordadas","32"
+"26","MCT L1y2 TOTAL (SUMA)","Memory Capacity Test - list: 1 and 2","Número de palabras recordadas en ambas listas","32"
+"27","MCT recuerdo libre TOTAL","Memory Capacity Test (MCT) Free Recall","Número de palabras recordadas","32"
 "28","Dígitos prog TOTAL","Digit-Symbol prog","Número de aciertos","9"
 "29","Dígitos regr TOTAL","Digit-Symbol regr","Número de aciertos","8"
 "30","STROOP1 tiempo","STROOP1 tiempo","Duración de la tarea en segundos","No aplica"
@@ -34,3 +34,4 @@
 "33","STROOP2 TOTAL","STROOP2 TOTAL","Número de aciertos","36"
 "34","STROOP3 tiempo","STROOP3 tiempo","Duración de la tarea en segundos","No aplica"
 "35","STROOP3 TOTAL","STROOP3 TOTAL","Número de aciertos","36"
+
