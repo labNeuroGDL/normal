@@ -9,7 +9,7 @@
 8,Reconocimiento lista palabras TOTAL,World List Recognition (WLR),Número de palabras reconocidas en lista,10,'Aciertos / Edad / Escolaridad',LP-R
 9,Praxias COPIA TOTAL,Constructional Praxis Copy (CPC),Número de aciertos en Praxias copia,11,'Aciertos / Edad / Escolaridad',PRX-C
 10,Praxias EVOCACION TOTAL,Constructional Praxis Recall (CPR),Número de aciertos en Praxias evocación,11,'Aciertos / Edad / Escolaridad',PRX-E
-11,TMT A Tiempo seg.,"Trail Making Test Part A (TMT-A, time)",Duración en segundos,300,'Errores / Tiempo',TMT-A (s)
+11,TMT A Tiempo seg.,"Trail Making Test Part A (TMT-A, time)",Duración en segundos,300,'Errores / Tiempo',TMT-A-time
 12,TMT A TOTAL,Trail Making Test Part A (TMT-A),Número de aciertos,25,'Aciertos / Edad / Escolaridad',TMT-A
 13,FV fonológica F,Phonological Verbal Fluency letter F (PVF-F),Número de aciertos en 1 minuto,40,'Aciertos / Edad / Escolaridad',FVF-F
 14,FV fonológica A,Phonological Verbal Fluency letter A (PVF-A),Número de aciertos en 1 minuto,40,'Aciertos / Edad / Escolaridad',FVF-A
@@ -18,8 +18,8 @@
 17,WCST categorías,Wisconsin Card Sorting Test (WCST) categories,Número de categorías completas,6,'Aciertos / Edad / Escolaridad',MWCST-CTG
 18,WCST perseveraciones,Wisconsin Card Sorting Test (WCST) perseverative errors,Número de errores perseverativos,47,'Errores / Tiempo',MWCST-P
 19,WCST numero de aciertos,Wisconsin Card Sorting Test (WCST) score,Número de aciertos,48,'Aciertos / Edad / Escolaridad',MWCST-A
-20,MIS lectura TOTAL,Memory Impairment Screen (MIS),Número de palabras léidas correctamente,4,'Aciertos / Edad / Escolaridad',MIS (LECTURA)
-21,MIS ident TOTAL,Memory Impairment Screen (MIS),Número de palabras clasificadas correctamente,4,'Aciertos / Edad / Escolaridad',MIS (IDENT)
+20,MIS lectura TOTAL,Memory Impairment Screen (MIS),Número de palabras léidas correctamente,4,'Aciertos / Edad / Escolaridad',MIS-LECTURA
+21,MIS ident TOTAL,Memory Impairment Screen (MIS),Número de palabras clasificadas correctamente,4,'Aciertos / Edad / Escolaridad',MIS-IDENT
 22,CLAVES TOTAL,Dígitos y símbolos,Número de claves total,133,'Aciertos / Edad / Escolaridad',CLV
 23,MIS TOTAL,MIS,Número de palabras recordadas,8,'Aciertos / Edad / Escolaridad',MIS
 24,MCT L1 TOTAL,Memory Capacity Test list 1,Número de aciertos en MCT lista 1,16,'Aciertos / Edad / Escolaridad',MCT-L1
@@ -28,12 +28,13 @@
 27,MCT reculibre TOTAL,Memory Capacity Test (MCT) Free Recall,Número de palabras recordadas,32,'Aciertos / Edad / Escolaridad',MCR-RL
 28,Dígitos prog TOTAL,Digit-Symbol prog,Número de aciertos,9,'Aciertos / Edad / Escolaridad',DIG PROG
 29,Dígitos regr TOTAL,Digit-Symbol regr,Número de aciertos,8,'Aciertos / Edad / Escolaridad',DIG REGR
-30,STROOP1 tiempo,STROOP1 tiempo,Duración de la tarea en segundos,No aplica,'Aciertos / Edad / Escolaridad',STROOP1 (S)
+30,STROOP1 tiempo,STROOP1 tiempo,Duración de la tarea en segundos,No aplica,'Aciertos / Edad / Escolaridad',STROOP1-time
 31,STROOP1 TOTAL,STROOP1 TOTAL,Número de aciertos,36,'Aciertos / Edad / Escolaridad',STROOP1
-32,STROOP2 tiempo,STROOP2 tiempo,Duración de la tarea en segundos,No aplica,'Aciertos / Edad / Escolaridad',STROOP2 (S)
+32,STROOP2 tiempo,STROOP2 tiempo,Duración de la tarea en segundos,No aplica,'Aciertos / Edad / Escolaridad',STROOP2-time
 33,STROOP2 TOTAL,STROOP2 TOTAL,Número de aciertos,36,'Aciertos / Edad / Escolaridad',STROOP2
-34,STROOP3 tiempo,STROOP3 tiempo,Duración de la tarea en segundos,No aplica,'Aciertos / Edad / Escolaridad',STROOP3 (S)
+34,STROOP3 tiempo,STROOP3 tiempo,Duración de la tarea en segundos,No aplica,'Aciertos / Edad / Escolaridad',STROOP3-time
 35,STROOP3 TOTAL,STROOP3 TOTAL,Número de aciertos,36,'Aciertos / Edad / Escolaridad',STROOP3
+
 
 
 
