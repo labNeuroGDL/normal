@@ -9,10 +9,10 @@
 8,TOTAL RECONOCIMIENTO LP,Reconocimiento de la lista de palabras,número de aciertos,10,'Aciertos / Edad / Escolaridad',LP-R
 9,TOTAL PRAX COP,Praxias construccionales - copia,número de aciertos,11,'Aciertos / Edad / Escolaridad',PRX-C
 10,TOTAL PRAX EVO,Praxias construccionales - evocación,número de aciertos,11,'Aciertos / Edad / Escolaridad',PRX-E
-11,TMT TIEMPO,Trail Making Test - A,tiempo de ejecución,300,'Errores / Tiempo',TMT-A (s)
-12,FIG REY TIEMPO COP,Figura Compleja de Rey / tiempo - copia,tiempo de ejecución,300,'Errores / Tiempo',RCOF-C (s)
+11,TMT TIEMPO,Trail Making Test - A,tiempo de ejecución,300,'Errores / Tiempo',TMT-A-time
+12,FIG REY TIEMPO COP,Figura Compleja de Rey / tiempo - copia,tiempo de ejecución,300,'Errores / Tiempo',RCOF-C-time
 13,FIG REY PUNTAJE COP,Figura Compleja de Rey / puntaje - copia,número de aciertos,36,'Aciertos / Edad / Escolaridad',ROCF-C
-14,FIG REY TIEMPO EVO,Figura Compleja de Rey / tiempo - evocación,tiempo de ejecución,300,'Errores / Tiempo',ROCF-IR (s)
+14,FIG REY TIEMPO EVO,Figura Compleja de Rey / tiempo - evocación,tiempo de ejecución,300,'Errores / Tiempo',ROCF-IR-time
 15,FIG REY PUNTAJE EVO,Figura Compleja de Rey / puntaje - evocación,número de aciertos,36,'Aciertos / Edad / Escolaridad',ROCF-IR
 16,FIG REY PORC RETEN,Figura Compleja de Rey - porcentaje de retención,porcentaje de retención,100,'Aciertos / Edad / Escolaridad',RCOF-DR
 17,FAS F TOTAL CORRECT,Fluidez verbal fonológica letra F,número de palabras,40,'Aciertos / Edad / Escolaridad',FVF-F
@@ -29,6 +29,7 @@
 28,MCT TOTAL LIST2,Memory Capacity Test lista 2,número de palabras aprendidas,16,'Aciertos / Edad / Escolaridad',MCT-L2
 29, MCT REC TOTAL L1 & L2 (SUMA),Memory Capacity Test - unión de las dos listas,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad',MCT-L1&2
 30, MCT REC. LIBRE TOTAL,Memory Capacity Test - recuerdo libre,número de palabras recordadas,32,'Aciertos / Edad / Escolaridad',MCT-RL
+
 
 
 
