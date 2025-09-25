@@ -1,6 +1,7 @@
-Fecha de nacimiento,Escolaridad,Edad,MMSE,Fluidez_Verbal_Semantica,Denominacion,Diferido LP,Total Prax Evo,,Evocacion_FCRO_Tiempo
-15/04/2005,10,20.2,28,NA,15,10,10,,120
-18/10/1990,9,35,29,Texto,,9,10,,150.2
-26/01/1998,13,40,27,#,12,9,9,,190
-18/10/1980,3,45,27,,,10,8,,"280,7"
-26/01/2007,9,18,30,,14,10,11,,160
+Fecha de nacimiento,Escolaridad,Edad,MMSE,Fluidez_Verbal_Semantica,Denominacion,Diferido LP,Total Prax Evo,,Evocacion_FCRO_Tiempo, TMT-A_time
+15/04/2005,10,20.2,28,NA,15,10,10,,120,80
+18/10/1990,9,35,29,Texto,,9,10,,150.2,70
+26/01/1998,13,40,27,#,12,9,9,,190,75
+18/10/1980,3,45,27,,,10,8,,"280,7",62
+26/01/2007,9,18,30,,14,10,11,,160,90
+
