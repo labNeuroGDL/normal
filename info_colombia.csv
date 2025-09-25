@@ -1,35 +1,36 @@
 ,Variable,Nombre,Medida,Máximo,tipo,abre
 1,Edad,Edad (años),Edad en años,110,'Aciertos / Edad / Escolaridad',Edad
-2,Escolaridad,Escolaridad (grados),AÃ±os de escolaridad sin contar preescolar,40,'Aciertos / Edad / Escolaridad',Escolaridad
+2,Escolaridad,Escolaridad (grados),Años de escolaridad sin contar preescolar,40,'Aciertos / Edad / Escolaridad',Escolaridad
 3,CERAD Total,CERAD Total,número de aciertos,100,'Aciertos / Edad / Escolaridad',CERAD
 4,MMSE,Mini Mental State Examination,número de aciertos,30,'Aciertos / Edad / Escolaridad',MMSE
-5,Semantic Fluency (Animals) ,Fluidez verbal semÃ¡ntica,nÃºmero de palabras,35,'Aciertos / Edad / Escolaridad',Fluidez-S
-6,BNT,Denominación,nÃºmero de aciertos,15,'Aciertos / Edad / Escolaridad',BNT
-7,Word List Learning ,Aprendizaje de la lista de palabras,nÃºmero de palabras,30,'Aciertos / Edad / Escolaridad',Lista
-8,Word List Delayed Recall ,Recuerdo diferido de la lista de palabras,nÃºmero de palabras,10,'Aciertos / Edad / Escolaridad',Evoc
-9,Word List Recognition,Reconocimiento de la lista de palabras,nÃºmero de aciertos,10,'Aciertos / Edad / Escolaridad',Recon
+5,Semantic Fluency (Animals) ,Fluidez verbal semántica,número de palabras,35,'Aciertos / Edad / Escolaridad',Fluidez-S
+6,BNT,Denominación,número de aciertos,15,'Aciertos / Edad / Escolaridad',BNT
+7,Word List Learning ,Aprendizaje de la lista de palabras,número de palabras,30,'Aciertos / Edad / Escolaridad',Lista
+8,Word List Delayed Recall ,Recuerdo diferido de la lista de palabras,número de palabras,10,'Aciertos / Edad / Escolaridad',Evoc
+9,Word List Recognition,Reconocimiento de la lista de palabras,número de aciertos,10,'Aciertos / Edad / Escolaridad',Recon
 10,MIS Free Recall,Memory Impairment Screen,total de aciertos,8,'Aciertos / Edad / Escolaridad',MIS-f
 11,MIS Cued Recall,Memory Impairment Screen,total de aciertos,4,'Aciertos / Edad / Escolaridad',MIS-c
-12,MCT List 1 Cued Recall,Memory Capacity Test lista 1,nÃºmero de palabras aprendidas,16,'Aciertos / Edad / Escolaridad',MCT-1
-13,MCT List 2 Cued Recall,Memory Capacity Test lista 2,nÃºmero de palabras aprendidas,16,'Aciertos / Edad / Escolaridad',MCT-2
-14,MCT List 1 Cued Recall 2,Memory Capacity Test - uniÃ³n de las dos listas,nÃºmero de palabras recordadas,16,'Aciertos / Edad / Escolaridad',MCT-1-2
-15,MCT List 2 Cued Recall 2,Memory Capacity Test - uniÃ³n de las dos listas,nÃºmero de palabras recordadas,16,'Aciertos / Edad / Escolaridad',MCT-2-2
+12,MCT List 1 Cued Recall,Memory Capacity Test lista 1,número de palabras aprendidas,16,'Aciertos / Edad / Escolaridad',MCT-1
+13,MCT List 2 Cued Recall,Memory Capacity Test lista 2,número de palabras aprendidas,16,'Aciertos / Edad / Escolaridad',MCT-2
+14,MCT List 1 Cued Recall 2,Memory Capacity Test - unión de las dos listas,número de palabras recordadas,16,'Aciertos / Edad / Escolaridad',MCT-1-2
+15,MCT List 2 Cued Recall 2,Memory Capacity Test - unión de las dos listas,número de palabras recordadas,16,'Aciertos / Edad / Escolaridad',MCT-2-2
 16,MCT Total Free Recall,Memory Capacity Test - recuerdo libre,nÃºmero de palabras recordadas,32,'Aciertos / Edad / Escolaridad',MCT-t
-17,CP Delayed Recall,Praxias construccionales - evocación,nÃºmero de aciertos,11,'Aciertos / Edad / Escolaridad',CP-evoc
-18,RCFT Delayed Recall,Figura Compleja de Rey / puntaje - evocaciÃ³n,nÃºmero de aciertos,36,'Aciertos / Edad / Escolaridad',RCFT-evo
+17,CP Delayed Recall,Praxias construccionales - evocación,número de aciertos,11,'Aciertos / Edad / Escolaridad',CP-evoc
+18,RCFT Delayed Recall,Figura Compleja de Rey / puntaje - evocación,número de aciertos,36,'Aciertos / Edad / Escolaridad',RCFT-evo
 19,CP Copy,Praxias construccionales - copia,nÃºmero de aciertos,11,'Aciertos / Edad / Escolaridad',CP-copia
-20,RCFT Copy,Figura Compleja de Rey / puntaje - copia,nÃºmero de aciertos,36,'Aciertos / Edad / Escolaridad',RCFT-Copia
-21,Raven´s Progressive Matrices,Matrices progresivas de Raven,nÃºmero de aciertos,12,'Aciertos / Edad / Escolaridad',Raven
-22,TMT-A-time,Trail Making Test - A,tiempo de ejecuciÃ³n,300,'Errores / Tiempo',TMT-A
-23,WAIS-lll Digit Symbol,DÃ­gitos y sÃ­mbolos,nÃºmero de aciertos,133,'Aciertos / Edad / Escolaridad',Claves
-24,A Cancelation Correct ,FALTA,nÃºmero de aciertos,16,'Aciertos / Edad / Escolaridad',Cancel
-25,Phonemic Fluency (FAS),FALTA,nÃºmero de aciertos,60,'Aciertos / Edad / Escolaridad',Fluidez-F
-26,WAIS-lll Arithmetic,FALTA,nÃºmero de aciertos,10,'Aciertos / Edad / Escolaridad',Arit
-27,WCST Total Correct,Test de clasificaciÃ³n de tarjetas del Wisconsin (WCST),nÃºmero de aciertos,48,'Aciertos / Edad / Escolaridad',WCST-a
-28,WCST Total Errors,Test de clasificaciÃ³n de tarjetas del Wisconsin (WCST),nÃºmero de errores,48,'Errores / Tiempo',WCDT-e
-29,WCST Total Categories,Test de clasificaciÃ³n de tarjetas del Wisconsin (WCST),nÃºmero de categorÃ­as,6,'Aciertos / Edad / Escolaridad',WCST-c
-30,WCST Perseverations,Test de clasificaciÃ³n de tarjetas del Wisconsin (WCST),respuestas perseverativas,47,'Errores / Tiempo',WCST-p
-31,WCST Failure Maintain Set,FALTA,nÃºmero de aciertos,16,'Errores / Tiempo',WCST-fp
+20,RCFT Copy,Figura Compleja de Rey / puntaje - copia,número de aciertos,36,'Aciertos / Edad / Escolaridad',RCFT-Copia
+21,Raven´s Progressive Matrices,Matrices progresivas de Raven,número de aciertos,12,'Aciertos / Edad / Escolaridad',Raven
+22,TMT-A-time,Trail Making Test - A,tiempo de ejecución,300,'Errores / Tiempo',TMT-A
+23,WAIS-lll Digit Symbol,Dígitos y símbolos,número de aciertos,133,'Aciertos / Edad / Escolaridad',Claves
+24,A Cancelation Correct ,FALTA,número de aciertos,16,'Aciertos / Edad / Escolaridad',Cancel
+25,Phonemic Fluency (FAS),FALTA,número de aciertos,60,'Aciertos / Edad / Escolaridad',Fluidez-F
+26,WAIS-lll Arithmetic,FALTA,número de aciertos,10,'Aciertos / Edad / Escolaridad',Arit
+27,WCST Total Correct,Test de clasificación de tarjetas del Wisconsin (WCST),número de aciertos,48,'Aciertos / Edad / Escolaridad',WCST-a
+28,WCST Total Errors,Test de clasificación de tarjetas del Wisconsin (WCST),nímero de errores,48,'Errores / Tiempo',WCDT-e
+29,WCST Total Categories,Test de clasificación de tarjetas del Wisconsin (WCST),número de categorías,6,'Aciertos / Edad / Escolaridad',WCST-c
+30,WCST Perseverations,Test de clasificación de tarjetas del Wisconsin (WCST),respuestas perseverativas,47,'Errores / Tiempo',WCST-p
+31,WCST Failure Maintain Set,FALTA,número de aciertos,16,'Errores / Tiempo',WCST-fp
+
 
 
 
