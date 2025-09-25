@@ -1,10 +1,10 @@
-,Variable,Nombre,Medida,MÃ¡ximo,tipo,abre
+,Variable,Nombre,Medida,Máximo,tipo,abre
 1,Edad,Edad (aÃ±os),Edad en aÃ±os,110,'Aciertos / Edad / Escolaridad',Edad
 2,Escolaridad,Escolaridad (grados),AÃ±os de escolaridad sin contar preescolar,40,'Aciertos / Edad / Escolaridad',Escolaridad
 3,CERAD Total,CERAD Total,nÃºmero de aciertos,100,'Aciertos / Edad / Escolaridad',CERAD
-4,MMSE,Mini Mental State Examination,nÃºmero de aciertos,30,'Aciertos / Edad / Escolaridad',MMSE
+4,MMSE,Mini Mental State Examination,número de aciertos,30,'Aciertos / Edad / Escolaridad',MMSE
 5,Semantic Fluency (Animals) ,Fluidez verbal semÃ¡ntica,nÃºmero de palabras,35,'Aciertos / Edad / Escolaridad',Fluidez-S
-6,BNT,DenominaciÃ³n,nÃºmero de aciertos,15,'Aciertos / Edad / Escolaridad',BNT
+6,BNT,Denominación,nÃºmero de aciertos,15,'Aciertos / Edad / Escolaridad',BNT
 7,Word List Learning ,Aprendizaje de la lista de palabras,nÃºmero de palabras,30,'Aciertos / Edad / Escolaridad',Lista
 8,Word List Delayed Recall ,Recuerdo diferido de la lista de palabras,nÃºmero de palabras,10,'Aciertos / Edad / Escolaridad',Evoc
 9,Word List Recognition,Reconocimiento de la lista de palabras,nÃºmero de aciertos,10,'Aciertos / Edad / Escolaridad',Recon
@@ -30,5 +30,6 @@
 29,WCST Total Categories,Test de clasificaciÃ³n de tarjetas del Wisconsin (WCST),nÃºmero de categorÃ­as,6,'Aciertos / Edad / Escolaridad',WCST-c
 30,WCST Perseverations,Test de clasificaciÃ³n de tarjetas del Wisconsin (WCST),respuestas perseverativas,47,'Errores / Tiempo',WCST-p
 31,WCST Failure Maintain Set,FALTA,nÃºmero de aciertos,16,'Errores / Tiempo',WCST-fp
+
 
 
