@@ -17,19 +17,20 @@
 16,MCT Total Free Recall,Memory Capacity Test - recuerdo libre,nÃºmero de palabras recordadas,32,'Aciertos / Edad / Escolaridad',MCT-t
 17,CP Delayed Recall,Praxias construccionales - evocación,número de aciertos,11,'Aciertos / Edad / Escolaridad',CP-evoc
 18,RCFT Delayed Recall,Figura Compleja de Rey / puntaje - evocación,número de aciertos,36,'Aciertos / Edad / Escolaridad',RCFT-evo
-19,CP Copy,Praxias construccionales - copia,nÃºmero de aciertos,11,'Aciertos / Edad / Escolaridad',CP-copia
+19,CP Copy,Praxias construccionales - copia,número de aciertos,11,'Aciertos / Edad / Escolaridad',CP-copia
 20,RCFT Copy,Figura Compleja de Rey / puntaje - copia,número de aciertos,36,'Aciertos / Edad / Escolaridad',RCFT-Copia
 21,Raven´s Progressive Matrices,Matrices progresivas de Raven,número de aciertos,12,'Aciertos / Edad / Escolaridad',Raven
 22,TMT-A-time,Trail Making Test - A,tiempo de ejecución,300,'Errores / Tiempo',TMT-A
 23,WAIS-lll Digit Symbol,Dígitos y símbolos,número de aciertos,133,'Aciertos / Edad / Escolaridad',Claves
 24,A Cancelation Correct ,FALTA,número de aciertos,16,'Aciertos / Edad / Escolaridad',Cancel
-25,Phonemic Fluency (FAS),FALTA,número de aciertos,60,'Aciertos / Edad / Escolaridad',Fluidez-F
-26,WAIS-lll Arithmetic,FALTA,número de aciertos,10,'Aciertos / Edad / Escolaridad',Arit
+25,Phonemic Fluency (FAS),Fluidez verbal fonológica,número de aciertos,60,'Aciertos / Edad / Escolaridad',Fluidez-F
+26,WAIS-lll Arithmetic,Wechsler Adult Intelligence Scale,número de aciertos,10,'Aciertos / Edad / Escolaridad',Arit
 27,WCST Total Correct,Test de clasificación de tarjetas del Wisconsin (WCST),número de aciertos,48,'Aciertos / Edad / Escolaridad',WCST-a
 28,WCST Total Errors,Test de clasificación de tarjetas del Wisconsin (WCST),nímero de errores,48,'Errores / Tiempo',WCDT-e
 29,WCST Total Categories,Test de clasificación de tarjetas del Wisconsin (WCST),número de categorías,6,'Aciertos / Edad / Escolaridad',WCST-c
 30,WCST Perseverations,Test de clasificación de tarjetas del Wisconsin (WCST),respuestas perseverativas,47,'Errores / Tiempo',WCST-p
-31,WCST Failure Maintain Set,FALTA,número de aciertos,16,'Errores / Tiempo',WCST-fp
+31,WCST Failure Maintain Set,Test de clasificación de tarjetas del Wisconsin (WCST),número de aciertos,16,'Errores / Tiempo',WCST-fp
+
 
 
 
