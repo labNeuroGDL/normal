@@ -26,14 +26,15 @@
 25,MCT L2 TOTAL,Memory Capacity Test list 2,Número de aciertos en MCT lista 2,16,'Aciertos / Edad / Escolaridad',MCT-L2
 26,MCT L1y2 TOTAL,Memory Capacity Test - list: 1 and 2,Número de palabras recordadas en ambas listas,32,'Aciertos / Edad / Escolaridad',MCT-L1&2
 27,MCT reculibre TOTAL,Memory Capacity Test (MCT) Free Recall,Número de palabras recordadas,32,'Aciertos / Edad / Escolaridad',MCT-RL
-28,Dígitos prog TOTAL,Digit-Symbol prog,Número de aciertos,9,'Aciertos / Edad / Escolaridad',DIG PROG
-29,Dígitos regr TOTAL,Digit-Symbol regr,Número de aciertos,8,'Aciertos / Edad / Escolaridad',DIG REGR
+28,Dígitos prog TOTAL,Digit-Symbol prog,Número de aciertos,9,'Aciertos / Edad / Escolaridad',DIG-PROG
+29,Dígitos regr TOTAL,Digit-Symbol regr,Número de aciertos,8,'Aciertos / Edad / Escolaridad',DIG-REGR
 30,STROOP1 tiempo,STROOP1 tiempo,Duración de la tarea en segundos,No aplica,'Aciertos / Edad / Escolaridad',STROOP1-time
 31,STROOP1 TOTAL,STROOP1 TOTAL,Número de aciertos,36,'Aciertos / Edad / Escolaridad',STROOP1
 32,STROOP2 tiempo,STROOP2 tiempo,Duración de la tarea en segundos,No aplica,'Aciertos / Edad / Escolaridad',STROOP2-time
 33,STROOP2 TOTAL,STROOP2 TOTAL,Número de aciertos,36,'Aciertos / Edad / Escolaridad',STROOP2
 34,STROOP3 tiempo,STROOP3 tiempo,Duración de la tarea en segundos,No aplica,'Aciertos / Edad / Escolaridad',STROOP3-time
 35,STROOP3 TOTAL,STROOP3 TOTAL,Número de aciertos,36,'Aciertos / Edad / Escolaridad',STROOP3
+
 
 
 
